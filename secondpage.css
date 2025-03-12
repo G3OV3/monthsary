@@ -2,14 +2,13 @@ body{
     background-color:#b95ef6;
 }
 
-.container{
+
+
+img{
     position: absolute;
     top: 50%;
     left: 50%;
     translate: -50% -50%;
-}
-
-img{
     height:auto;
     width:auto;
     max-width: 100%;
